@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 This is newly updated from remote repository
+=======
+This is newly updated from local repository
+>>>>>>> Stashed changes
